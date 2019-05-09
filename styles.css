@@ -1,0 +1,31 @@
+body {
+    background-color: #eaeaea;
+}
+
+.georgia
+{
+    font-family: 'Georgia', serif;
+}
+
+.navbar-brand
+{
+    font-family: 'Georgia', serif;
+}
+
+.tealtext {
+    color: teal;
+    font-family: 'Georgia', serif;
+}
+.tealbackground{
+    background-color: teal;
+}
+
+.sm_bluish {
+    background-color: white;
+}
+
+@media (max-width: 767px) {
+  .sm_bluish {
+    background-color: teal;
+  }
+}
